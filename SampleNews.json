@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 29,
+    "articles": [
+    {
+    "source": {
+    "id": "financial-times",
+    "name": "Financial Times"
+    },
+    "author": null,
+    "title": "Goldman follows Cathie Wood’s Ark with new tech-focused active ETF",
+    "description": "Bank’s asset management division to target smaller innovative companies, with nearly half outside the US",
+    "url": "https://www.ft.com/content/969314ac-c411-4568-92b4-5257e21e30c1",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F12e56ddc-fe78-46a5-a5b8-60193950b96c.jpg?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2021-09-16T14:22:18.7867186Z",
+    "content": "Wall Street bank Goldman Sachs has launched an actively managed equity fund that will bet on emerging technology companies, following a trail blazed by the blockbuster success of Cathie Wood’s Ark In… [+3377 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Martin Coulter",
+    "title": "Codesignal raised $50 million from Index and others using this deck",
+    "description": "The company counts a number of leading tech firms among its clientele, including Facebook, Zoom, Instacart, and Robinhood.",
+    "url": "http://www.businessinsider.com/codesignal-index-ventures-pitch-deck-technology-2021-9",
+    "urlToImage": "https://i.insider.com/61410ab5f0cb130019e8c8cb?width=1200&format=jpeg",
+    "publishedAt": "2021-09-16T14:01:00Z",
+    "content": "Codesignal, the online assessment platform for technical talent, just raised $50 million in a Series C funding round backed by Index Ventures and the early Uber investor Menlo Ventures.\r\nThe firm, fo… [+982 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider-uk",
+    "name": "Business Insider (UK)"
+    },
+    "author": "Martin Coulter",
+    "title": "Codesignal raised $50 million from Index and others using this deck",
+    "description": "The company counts a number of leading tech firms among its clientele, including Facebook, Zoom, Instacart, and Robinhood.",
+    "url": "http://uk.businessinsider.com/codesignal-index-ventures-pitch-deck-technology-2021-9",
+    "urlToImage": "https://i.insider.com/61410ab5f0cb130019e8c8cb?width=1200&format=jpeg",
+    "publishedAt": "2021-09-16T14:01:00Z",
+    "content": "Codesignal, the online assessment platform for technical talent, just raised $50 million in a Series C funding round backed by Index Ventures and the early Uber investor Menlo Ventures.\r\nThe firm, fo… [+982 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "CodeSignal secures $50M for its tech hiring platform",
+    "description": "The company’s technical assessment technology is a “flight simulator for developers,” that gives candidates a score based on a simulated evaluation of their skills.",
+    "url": "https://techcrunch.com/2021/09/16/codesignal-secures-50m-for-its-tech-hiring-platform/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Tigran-2021.jpeg?w=686",
+    "publishedAt": "2021-09-16T14:00:13Z",
+    "content": "In less than a year after raising $25 million in Series B funding, technical assessment company CodeSignal announced a $50 million in Series C funding to offer new features for its platform that help… [+3787 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "Google's R&D division experiments with newsletters powered by Google Drive",
+    "description": "Following entries into the newsletter market from tech companies like Facebook and Twitter, Google is now experimenting with newsletters, too. The company’s internal R&D division, Area 120, has a new project called Museletter, which allows anyone to publish a…",
+    "url": "https://techcrunch.com/2021/09/16/googles-rd-division-experiments-with-newsletters-powered-by-google-drive/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/museletter.jpg?w=613",
+    "publishedAt": "2021-09-16T13:52:52Z",
+    "content": "Following entries into the newsletter market from tech companies like Facebook and Twitter, Google is now experimenting with newsletters, too. The company’s internal R&amp;D division, Area 120, has a… [+2661 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Fox News",
+    "title": "‘Social Dilemma’ star blasts Facebook for putting profits ahead of people: ‘This is catastrophic’",
+    "description": "Ex-Google consultant Joe Toscano blasted Facebook for putting profits ahead of people after a pair of \"catastrophic\" reports indicate the tech giant allows celebrities to break the platform’s rules and executives recognize its photo-sharing app can be harmful…",
+    "url": "https://www.foxnews.com/media/ex-google-consultant-blasts-facebook",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Joe-Toscano-TED-TALKS.jpg",
+    "publishedAt": "2021-09-16T13:07:20.2875662Z",
+    "content": "Ex-Google consultant Joe Toscano blasted Facebook for putting profits ahead of people after a pair of \"catastrophic\" reports indicate the tech giant allows celebrities to break the platforms rules an… [+6933 chars]"
+    },
+    {
+    "source": {
+    "id": "gruenderszene",
+    "name": "Gruenderszene"
+    },
+    "author": null,
+    "title": "„Erpresserisch“: Revolut hat Ärger mit Mitarbeiterbeteiligungsprogramm",
+    "description": "Revolut will Mitarbeitern den Teilverkauf von Anteilen erlauben. Das Fintech-Unternehmen benachteiligt dabei aber Ehemalige.",
+    "url": "https://www.businessinsider.de/gruenderszene/revolut-mitarbeiterbeteiligungen-esop-probleme/",
+    "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2021/09/revolut-Nikolay-Storonsky.jpeg",
+    "publishedAt": "2021-09-16T10:02:19+00:00",
+    "content": "Mitarbeiter des Fintech-Startups sollen vorzeitig einen Teil ihrer Aktien verkaufen können. Doch das Unternehmen benachteiligt dabei Ehemalige.\r\nRevolut-Gründer Nikolay Storonsky in seinem Büro in Lo… [+4158 chars]"
+    },
+    {
+    "source": {
+    "id": "newsweek",
+    "name": "Newsweek"
+    },
+    "author": "Meghan Roos",
+    "title": "Some 'Texit' Tech Companies to Cover Abortion Costs as New Texas Law Impacts Hiring",
+    "description": "Texas' new abortion law has already come up in hiring talks, one tech company founder told Newsweek. Some will pay for out-of-state abortions.",
+    "url": "https://www.newsweek.com/some-texit-tech-companies-cover-abortion-costs-new-texas-law-impacts-hiring-1629644",
+    "urlToImage": "https://d.newsweek.com/en/full/1895640/texas-abortion-law-tech-companies.jpg",
+    "publishedAt": "2021-09-16T10:00:01Z",
+    "content": "The technology companies that left California for Texas over the last couple of years are not yet ready to consider relocating in the wake of the new abortion law that went into effect earlier this m… [+5480 chars]"
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": "Debby Wu",
+    "title": "Battery-Swapping Startup Gogoro to Go Public in SPAC Merger",
+    "description": "A Taiwanese startup called Gogoro Inc. that specializes in battery-swapping technology said it will go public through a merger with Poema Global Holdings Corp., the latest blank-check firm to cut a deal with a promising new company.",
+    "url": "https://www.bloomberg.com/news/articles/2021-09-16/battery-swapping-startup-gogoro-to-go-public-in-spac-merger",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXW9JbBuAE3Q/v0/1200x802.jpg",
+    "publishedAt": "2021-09-16T08:55:00+00:00",
+    "content": "A Taiwanese startup called \r\nGogoro Inc. that specializes in battery-swapping technology said it will go public through a merger with \r\nPoema Global Holdings Corp., the latest blank-check firm to cut… [+358 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news-au",
+    "name": "Google News (Australia)"
+    },
+    "author": "Josh Dye, Michaela Whitbourn",
+    "title": "As it happened: Australia-US nuclear submarine deal to counter China, NSW records 1351 new COVID cases, Victoria records 514",
+    "description": "Australia and its allies announced a major new security deal on Thursday to share advanced technologies including nuclear submarine technology.",
+    "url": "https://www.smh.com.au/national/australia-news-live-australia-us-and-uk-to-unveil-new-defence-pact-nsw-health-staff-yet-to-get-covid-vaccines-victorian-lockdown-could-ease-20210915-p58rw3.html",
+    "urlToImage": "https://static.ffx.io/images/$zoom_0.593%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_34%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_theage_live_no_age_social_wm/761482b59b8a8b8380a2fb4dd3f8ca69fe27f477",
+    "publishedAt": "2021-09-16T07:28:53+00:00",
+    "content": "Peter Jennings, executive director of the Australian Strategic Policy Institute, backed the new deal and said his initial response was \"surprise\".\r\n\"This is something that has been negotiated very qu… [+1781 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Richard Lawler",
+    "title": "Alphabet’s Project Taara laser tech beamed 700TB of data across nearly 5km",
+    "description": "Google’s parent company Alphabet has a moonshot project dedicated to building up a wireless optical technology that can create links capable of sending up to 20Gbps. A recent test linking two cities across the Congo River managed to transfer 700TB of data ove…",
+    "url": "https://www.theverge.com/2021/9/16/22677015/project-taara-fsoc-wireless-internet-kinshasa-congo-fiber",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/4Ofvz_bfWWzbEVfvhDqLWw4AIII=/0x194:1179x811/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22854628/unnamed.jpg",
+    "publishedAt": "2021-09-16T07:11:24Z",
+    "content": "The 20Gbps Free Space Optical Communications tech for Project Taara was originally part of Project Loon\r\nProject Taara link\r\nImage: X\r\nIn January, Googles parent company, Alphabet, shut down Project … [+2896 chars]"
+    },
+    {
+    "source": {
+    "id": "le-monde",
+    "name": "Le Monde"
+    },
+    "author": "Pierre-Antoine Dusoulier",
+    "title": "Cryptomonnaies : « Le yuan numérique, révolution technologique, peut être un accélérateur de crise en Chine »",
+    "description": "L’expert financier Pierre-Antoine Dusoulier explique, dans une tribune au « Monde », que le déploiement de la monnaie numérique risque de fragiliser les banques rurales chinoises et, dans la foulée, de déstabiliser l’ensemble des institutions bancaires du pay…",
+    "url": "https://www.lemonde.fr/idees/article/2021/09/16/cryptomonnaies-le-yuan-numerique-revolution-technologique-peut-etre-un-accelerateur-de-crise-en-chine_6094851_3232.html",
+    "urlToImage": "https://img.lemde.fr/2021/09/06/152/0/3500/1748/1440/720/60/0/61f400f_fw1-china-markets-csrc-0906-11.jpg",
+    "publishedAt": "2021-09-16T05:00:14Z",
+    "content": "Tribune. La Chine est sur le point de franchir une nouvelle étape dans le déploiement du yuan numérique. Il a été testé dans quatre villes pilotes depuis avril 2020, avec succès. Dans les semaines à … [+2625 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news-in",
+    "name": "Google News (India)"
+    },
+    "author": "AP",
+    "title": "Australia to get US nuclear submarine technology as China looms large",
+    "description": "Australia notified France that it would end its contract with state majority-owned DCNS to build 12 of the world’s largest conventional submarines. | World News",
+    "url": "https://www.hindustantimes.com/world-news/australia-turns-to-us-for-nuclear-powered-submarines-aim-to-thwart-china-101631763472617.html",
+    "urlToImage": "https://images.hindustantimes.com/img/2021/09/16/1600x900/Australia-US-Indo-Pacific-1_1631764537822_1631764566334.jpg",
+    "publishedAt": "2021-09-16T03:57:23+00:00",
+    "content": "Australia decided to invest in US nuclear-powered submarines and dump its contract with France to build diesel-electric submarines because of a changed strategic environment, Prime Minister Scott Mor… [+3156 chars]"
+    },
+    {
+    "source": {
+    "id": "the-globe-and-mail",
+    "name": "The Globe And Mail"
+    },
+    "author": null,
+    "title": "Canada left out as U.S., U.K., Australia strike deal to counter China",
+    "description": "The deal will see the countries share more military technologies and information than they currently do, some of it related to artificial intelligence, quantum computing and cyber capabilities",
+    "url": "https://www.theglobeandmail.com/world/us-politics/article-canada-left-out-as-us-uk-australia-strike-deal-to-counter-china/",
+    "urlToImage": "https://www.theglobeandmail.com/resizer/8lj0Fjh-fkkXWvDeNDK80gqDHCQ=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/WT62K6WQINN25JCGKUT4E5BXQQ.jpg",
+    "publishedAt": "2021-09-16T01:22:30Z",
+    "content": "U.S. President Joe Biden speaks on national security with British Prime Minister Boris Johnson, right, and Australian Prime Minister Scott Morrison in the White House in Washington on Sept. 15, 2021.… [+5939 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Mitchell Clark",
+    "title": "The Apple rumors were wrong",
+    "description": "Some tech news observers were surprised by Apple’s iPhone event, where it showed off a new Series 7 Watch and phones. The shock didn’t necessarily come from what the company announced, though, but what it didn't.",
+    "url": "https://www.theverge.com/2021/9/15/22676131/apple-2021-rumor-mill-wrong-watch-leaks-airpods",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/A1Xv7-x7e2B9O024xG006ddAzSE=/0x44:2880x1552/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22853542/Screen_Shot_2021_09_15_at_1.34.12_PM.png",
+    "publishedAt": "2021-09-15T23:43:08Z",
+    "content": "We heard there would be new AirPods and big changes to the Watch there werent\r\nPictured: Tim Cook, knowing hes not about to announce the thing I want.\r\nImage: Apple\r\nFor many who follow tech news clo… [+3790 chars]"
+    },
+    {
+    "source": {
+    "id": "fortune",
+    "name": "Fortune"
+    },
+    "author": "Kristi Lamar",
+    "title": "7 ways to close tech’s corrosive gender gap",
+    "description": "Although perfect gender parity in IT will likely continue to be a challenge, these approaches can help to improve your numbers.",
+    "url": "https://fortune.com/2021/09/15/women-in-tech-gender-gap-inclusion-mentorship/",
+    "urlToImage": "https://content.fortune.com/wp-content/uploads/2021/09/GettyImages-591168857-e1631729825492.jpg?resize=1200,600",
+    "publishedAt": "2021-09-15T21:30:00Z",
+    "content": "Skip to Content"
+    },
+    {
+    "source": {
+    "id": "hacker-news",
+    "name": "Hacker News"
+    },
+    "author": "Mathias Kærlev",
+    "title": "ChowJS: an AOT JavaScript engine for game consoles",
+    "description": "Hello, and welcome to the MP2 Games tech blog! I’m Mathias, and this is the first entry in what will hopefully become a long series of technical deep dives into some of the work we do at MP2.",
+    "url": "https://mp2.dk/techblog/chowjs",
+    "urlToImage": null,
+    "publishedAt": "2021-09-14T22:00:00Z",
+    "content": "Mathias Kærlev. Sep 15, 2021.\r\n Hello, and welcome to the MP2 Games tech blog!\r\nIm Mathias, and this is the first entry in what will hopefully\r\nbecome a long series of technical deep dives into some … [+14742 chars]"
+    },
+    {
+    "source": {
+    "id": "next-big-future",
+    "name": "Next Big Future"
+    },
+    "author": "Brian Wang",
+    "title": "Modular High Temperature Reactor Finally Starting | NextBigFuture.com",
+    "description": "Nextbigfuture has been covering the modular high-temperature reactors for 12 years. This new nuclear reactor technology took a long time to build. China",
+    "url": "https://www.nextbigfuture.com/2021/09/modular-high-temperature-reactor-finally-starting.html",
+    "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2016/12/htrpm1-1.jpg",
+    "publishedAt": "2021-09-14T14:22:39Z",
+    "content": "The first of the two high-temperature gas-cooled pebble bed reactors of Chinas HTR-PM reactor reached criticality. Two small reactors that will drive a single 210 MWe turbine. This uses nuclear fuel … [+2208 chars]"
+    },
+    {
+    "source": {
+    "id": "la-repubblica",
+    "name": "La Repubblica"
+    },
+    "author": "La Repubblica",
+    "title": "Essere Elon Musk / 22: i libri di Asimov che gli hanno cambiato la vita",
+    "description": "La vita, le idee e i segreti del visionario Ceo di Tesla e SpaceX che il 24 settembre prossimo sarà a Torino per partecipare all'Italian Tech Week.  di Pier Luigi Pisavideo di Leonardo Meuti Alle Officine Grandi Riparazioni, hub dell'arte e dell'innovazione d…",
+    "url": "https://video.repubblica.it/tecnologia/dossier/essere-elon-musk/essere-elon-musk-22-i-libri-di-asimov-che-gli-hanno-cambiato-la-vita/396066/396774",
+    "urlToImage": "https://www.repstatic.it/video/photo/2021/09/08/789920/789920-thumb-full-720-22musk_l_amore_per_.jpg",
+    "publishedAt": "2021-09-08T15:21:44Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "new-scientist",
+    "name": "New Scientist"
+    },
+    "author": null,
+    "title": "Ventilation can make schools and offices safe from covid-19 – but how?",
+    "description": "Maximising airflow in public spaces is crucial to cut covid-19 transmission, but questions remain about what technology to use and how effective it needs to be",
+    "url": "https://www.newscientist.com/article/mg25133484-200-ventilation-can-make-schools-and-offices-safe-from-covid-19-but-how/",
+    "urlToImage": "https://images.newscientist.com/wp-content/uploads/2021/08/18201325/pri195123936-5.jpg",
+    "publishedAt": "2021-08-18T00:00:00Z",
+    "content": "By Graham Lawton\r\nFirst day back at Tustin Ranch Elementary School in California on 11 August\r\nPaul Bersebach/MediaNews Group/Orange County Register via Getty Images\r\nAS THE nights begin to draw in a… [+486 chars]"
+    }
+    ]
+    }
